@@ -19,7 +19,7 @@
 
 I'm a passionate **Frontend Developer** who loves turning ideas into clean, responsive, and user-friendly web applications. I work confidently across the modern web stack and enjoy writing code that's both elegant and maintainable.
 
-- 🌱 Currently sharpening my skills in **React, TypeScript, and Node.js**
+- 🌱 Currently sharpening my skills in **C, C++, Python, React, TypeScript, and Node.js**
 - 💃🎶 Trained in **classical dance and singing** — my favorite way to unwind
 - 🗣️ Strong **communicator** who speaks with clarity and confidence
 - ⚡ Always curious, always building, always learning something new
@@ -71,12 +71,6 @@ I'm a passionate **Frontend Developer** who loves turning ideas into clean, resp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srividhya121&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<!-- ====================== SECTION F: GITHUB TROPHIES ====================== -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srividhya121&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
 
 <!-- ====================== SECTION H: FOOTER ====================== -->
 ## 🤝 Let's Connect
